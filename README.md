@@ -15,7 +15,7 @@
 
 
 ## 3D file
-* **[Scale](https://github.com/XAbirHasan/HorrorEnviroment-Blender/blob/master/3D%20file/Monster%20and%20man.fbx)**
+* **[Scale](https://github.com/XAbirHasan/Scale-3D-Blender/blob/master/3D%20file/scale.fbx)**
 
 
 ## Authors
